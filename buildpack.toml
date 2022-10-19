@@ -2,6 +2,7 @@
 name = "Python"
 
 [publish.Ignore]
+
 files = [
   ".github/",
   "builds/",
